@@ -1,4 +1,4 @@
-# Hi, I'm [Jeong ik Park] 👋
+# Hi, I'm Jeong ik Park 👋
 
 Most AI policy people have never deployed a model.
 Most ML engineers have never written policy.
