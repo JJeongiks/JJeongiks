@@ -16,7 +16,7 @@ I work on **acceptance**: the conditions that make AI actually used, not rejecte
 
 | Repo | What it is |
 |---|---|
-| 📄 [md-to-hwpx](LINK) | Convert Markdown to HWPX, Korea's official government document format. Includes **UNDOCUMENTED.md** — real HWPX behaviors that appear nowhere in the official spec (KS X 6101). |
+| 📄 [md-to-hwpx](LINK) | Convert Markdown to HWPX, Korea's official government document format. (coming)— real HWPX behaviors that appear nowhere in the official spec (KS X 6101). |
 | 🔍 qwen-local-classifier *(coming)* | Architecture + synthetic-data demo of the 6,000-document classification pipeline. The README is about the constraints, not the accuracy. |
 
 ## Where I write
